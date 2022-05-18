@@ -1,4 +1,4 @@
-# workdpress_environemtn_on_Docker
+# wordpress_environemtn_on_Docker
 how to install wordpress on docker
 # Wordpress & Docker
 
